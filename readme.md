@@ -22,7 +22,7 @@ pip install click
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/PGKeeper.git
+git clone https://github.com/Amirreza-Jabbari/PGKeeper.git
 cd PGKeeper
 ```
 
